@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="smash.png">
+<SubTexture name="smash idle0000" x="0" y="1597" width="495" height="1401" frameX="-3" frameY="-130" frameWidth="2209" frameHeight="1651" />
+<SubTexture name="smash idle0001" x="0" y="0" width="754" height="1597" frameX="-15" frameY="-36" frameWidth="2209" frameHeight="1651" />
+<SubTexture name="smash idle0002" x="754" y="0" width="1765" height="1568" frameX="-50" frameY="-27" frameWidth="2209" frameHeight="1651" />
+<SubTexture name="smash idle0003" x="1734" y="1597" width="2021" height="1317" frameX="-65" frameY="-165" frameWidth="2209" frameHeight="1651" />
+<SubTexture name="smash idle0004" x="495" y="1597" width="1239" height="1396" frameX="-918" frameY="-139" frameWidth="2209" frameHeight="1651" />
+<SubTexture name="smash idle0005" x="2519" y="0" width="1263" height="1430" frameX="-905" frameY="-125" frameWidth="2209" frameHeight="1651" />
+<SubTexture name="smash idle0006" x="0" y="2998" width="746" height="552" frameX="-723" frameY="-736" frameWidth="2209" frameHeight="1651" />
+</TextureAtlas>
