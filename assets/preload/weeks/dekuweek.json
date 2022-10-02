@@ -1,0 +1,32 @@
+{
+	"storyName": "Sports Festival",
+	"difficulties": "",
+	"hideFreeplay": false,
+	"weekBackground": "deku",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"Full Cowl",
+			"deku",
+			[
+				66,
+				213,
+				135
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "mhadeku",
+	"hiddenUntilUnlocked": false
+}
