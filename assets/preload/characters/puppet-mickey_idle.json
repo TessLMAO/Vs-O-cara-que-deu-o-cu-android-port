@@ -1,0 +1,35 @@
+{
+	"animations": [
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 28,
+			"name": "julian idle",
+			"indices": []
+		}
+	],
+	"dataType": "JSON",
+	"no_antialiasing": false,
+	"image": "characters/Mouse/Puppet/puppet-mickey_idle",
+	"position": [
+		130,
+		350
+	],
+	"healthicon": "julian",
+	"flip_x": false,
+	"healthbar_colors": [
+		132,
+		132,
+		132
+	],
+	"camera_position": [
+		-100,
+		10
+	],
+	"sing_duration": 4.00000000000001,
+	"scale": 1.2
+}
