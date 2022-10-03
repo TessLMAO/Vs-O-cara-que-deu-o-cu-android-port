@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="deku.png">
+<SubTexture name="deku right0000" x="853" y="1950" width="293" height="250" frameX="-75" frameY="-157" frameWidth="375" frameHeight="419" />
+<SubTexture name="deku right0001" x="564" y="1950" width="288" height="252" frameX="-74" frameY="-156" frameWidth="375" frameHeight="419" />
+<SubTexture name="deku right0002" x="279" y="1950" width="284" height="254" frameX="-73" frameY="-154" frameWidth="375" frameHeight="419" />
+<SubTexture name="deku right0003" x="0" y="1950" width="279" height="256" frameX="-73" frameY="-152" frameWidth="375" frameHeight="419" />
+<SubTexture name="deku up0000" x="0" y="0" width="202" height="399" frameX="-59" frameY="-12" frameWidth="375" frameHeight="419" />
+<SubTexture name="deku up0001" x="202" y="0" width="205" height="390" frameX="-57" frameY="-21" frameWidth="375" frameHeight="419" />
+<SubTexture name="deku up0002" x="408" y="0" width="206" height="376" frameX="-57" frameY="-35" frameWidth="375" frameHeight="419" />
+<SubTexture name="deku up0003" x="614" y="0" width="206" height="373" frameX="-57" frameY="-39" frameWidth="375" frameHeight="419" />
+<SubTexture name="deku left0000" x="1989" y="1336" width="200" height="253" frameX="-19" frameY="-153" frameWidth="375" frameHeight="419" />
+<SubTexture name="deku left0001" x="1989" y="1080" width="195" height="256" frameX="-24" frameY="-150" frameWidth="375" frameHeight="419" />
+<SubTexture name="deku left0002" x="1989" y="823" width="191" height="257" frameX="-29" frameY="-149" frameWidth="375" frameHeight="419" />
+<SubTexture name="deku left0003" x="1989" y="565" width="188" height="257" frameX="-31" frameY="-149" frameWidth="375" frameHeight="419" />
+<SubTexture name="deku down0000" x="1488" y="1950" width="174" height="203" frameX="-72" frameY="-210" frameWidth="375" frameHeight="419" />
+<SubTexture name="deku down0001" x="1317" y="1950" width="170" height="208" frameX="-73" frameY="-205" frameWidth="375" frameHeight="419" />
+<SubTexture name="deku down0002" x="1146" y="1950" width="171" height="211" frameX="-73" frameY="-201" frameWidth="375" frameHeight="419" />
+<SubTexture name="deku down0003" x="1989" y="1590" width="171" height="216" frameX="-73" frameY="-197" frameWidth="375" frameHeight="419" />
+<SubTexture name="deku idle0000" x="1226" y="1037" width="189" height="308" frameX="-69" frameY="-106" frameWidth="375" frameHeight="419" />
+<SubTexture name="deku idle0001" x="1445" y="935" width="187" height="310" frameX="-71" frameY="-105" frameWidth="375" frameHeight="419" />
+<SubTexture name="deku idle0002" x="1042" y="1037" width="184" height="312" frameX="-72" frameY="-102" frameWidth="375" frameHeight="419" />
+<SubTexture name="deku idle0003" x="316" y="1037" width="182" height="314" frameX="-73" frameY="-100" frameWidth="375" frameHeight="419" />
+<SubTexture name="deku idle0004" x="1114" y="315" width="181" height="315" frameX="-73" frameY="-99" frameWidth="375" frameHeight="419" />
+<SubTexture name="deku idle0005" x="1114" y="315" width="181" height="315" frameX="-73" frameY="-99" frameWidth="375" frameHeight="419" />
+<SubTexture name="deku smash voice line0000" x="1114" y="315" width="181" height="315" frameX="-73" frameY="-99" frameWidth="375" frameHeight="419" />
+<SubTexture name="deku smash voice line0001" x="295" y="719" width="182" height="316" frameX="-73" frameY="-99" frameWidth="375" frameHeight="419" />
+<SubTexture name="deku smash voice line0002" x="478" y="719" width="182" height="316" frameX="-73" frameY="-99" frameWidth="375" frameHeight="419" />
+<SubTexture name="deku smash voice line0003" x="576" y="399" width="178" height="316" frameX="-73" frameY="-99" frameWidth="375" frameHeight="419" />
+<SubTexture name="deku smash voice line0004" x="272" y="1352" width="275" height="296" frameX="-78" frameY="-119" frameWidth="375" frameHeight="419" />
+<SubTexture name="deku smash voice line0005" x="1091" y="1352" width="272" height="293" frameX="-78" frameY="-122" frameWidth="375" frameHeight="419" />
+<SubTexture name="deku smash voice line0006" x="547" y="1352" width="272" height="293" frameX="-78" frameY="-121" frameWidth="375" frameHeight="419" />
+<SubTexture name="deku smash voice line0007" x="819" y="1352" width="272" height="293" frameX="-78" frameY="-121" frameWidth="375" frameHeight="419" />
+<SubTexture name="deku smash voice line0008" x="1363" y="1352" width="272" height="292" frameX="-78" frameY="-122" frameWidth="375" frameHeight="419" />
+<SubTexture name="deku smash voice line0009" x="1717" y="0" width="272" height="292" frameX="-78" frameY="-122" frameWidth="375" frameHeight="419" />
+<SubTexture name="deku smash voice line0010" x="1717" y="292" width="272" height="292" frameX="-78" frameY="-122" frameWidth="375" frameHeight="419" />
+<SubTexture name="deku smash voice line0011" x="0" y="1660" width="272" height="289" frameX="-78" frameY="-125" frameWidth="375" frameHeight="419" />
+<SubTexture name="deku smash voice line0012" x="1360" y="1660" width="272" height="285" frameX="-78" frameY="-130" frameWidth="375" frameHeight="419" />
+<SubTexture name="deku smash voice line0013" x="1989" y="0" width="272" height="282" frameX="-78" frameY="-132" frameWidth="375" frameHeight="419" />
+<SubTexture name="deku smash voice line0014" x="816" y="1660" width="272" height="288" frameX="-78" frameY="-127" frameWidth="375" frameHeight="419" />
+<SubTexture name="deku smash voice line0015" x="272" y="1660" width="272" height="289" frameX="-78" frameY="-126" frameWidth="375" frameHeight="419" />
+<SubTexture name="deku smash voice line0016" x="1717" y="585" width="272" height="292" frameX="-78" frameY="-123" frameWidth="375" frameHeight="419" />
+<SubTexture name="deku smash voice line0017" x="0" y="1352" width="272" height="308" frameX="-78" frameY="-106" frameWidth="375" frameHeight="419" />
+<SubTexture name="deku smash voice line0018" x="1445" y="624" width="272" height="310" frameX="-78" frameY="-104" frameWidth="375" frameHeight="419" />
+<SubTexture name="deku smash voice line0019" x="1445" y="312" width="272" height="312" frameX="-78" frameY="-103" frameWidth="375" frameHeight="419" />
+<SubTexture name="deku smash voice line0020" x="1445" y="0" width="272" height="312" frameX="-78" frameY="-102" frameWidth="375" frameHeight="419" />
+<SubTexture name="deku smash voice line0021" x="498" y="1037" width="272" height="313" frameX="-78" frameY="-101" frameWidth="375" frameHeight="419" />
+<SubTexture name="deku smash voice line0022" x="770" y="1037" width="272" height="313" frameX="-78" frameY="-101" frameWidth="375" frameHeight="419" />
+<SubTexture name="deku smash voice line0023" x="660" y="719" width="331" height="315" frameX="-5" frameY="-100" frameWidth="375" frameHeight="419" />
+<SubTexture name="deku smash voice line0024" x="1114" y="631" width="316" height="314" frameX="-24" frameY="-100" frameWidth="375" frameHeight="419" />
+<SubTexture name="deku smash voice line0025" x="820" y="0" width="293" height="318" frameX="-32" frameY="-97" frameWidth="375" frameHeight="419" />
+<SubTexture name="deku smash voice line0026" x="0" y="719" width="295" height="318" frameX="-32" frameY="-98" frameWidth="375" frameHeight="419" />
+<SubTexture name="deku smash voice line0027" x="0" y="399" width="290" height="319" frameX="-37" frameY="-97" frameWidth="375" frameHeight="419" />
+<SubTexture name="deku smash voice line0028" x="290" y="399" width="285" height="319" frameX="-42" frameY="-98" frameWidth="375" frameHeight="419" />
+<SubTexture name="deku smash voice line0029" x="290" y="399" width="285" height="319" frameX="-42" frameY="-98" frameWidth="375" frameHeight="419" />
+<SubTexture name="deku smash0000" x="1717" y="877" width="272" height="292" frameX="-78" frameY="-123" frameWidth="375" frameHeight="419" />
+<SubTexture name="deku smash0001" x="1114" y="0" width="331" height="315" frameX="-5" frameY="-100" frameWidth="375" frameHeight="419" />
+<SubTexture name="deku smash0002" x="0" y="1037" width="316" height="314" frameX="-24" frameY="-100" frameWidth="375" frameHeight="419" />
+<SubTexture name="deku smash0003" x="820" y="318" width="293" height="318" frameX="-32" frameY="-97" frameWidth="375" frameHeight="419" />
+<SubTexture name="deku smash0004" x="0" y="719" width="295" height="318" frameX="-32" frameY="-98" frameWidth="375" frameHeight="419" />
+<SubTexture name="deku smash0005" x="290" y="399" width="285" height="319" frameX="-42" frameY="-98" frameWidth="375" frameHeight="419" />
+<SubTexture name="deku smash0006" x="290" y="399" width="285" height="319" frameX="-42" frameY="-98" frameWidth="375" frameHeight="419" />
+</TextureAtlas>

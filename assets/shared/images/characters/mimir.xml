@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="mimir.png">
+	<!-- Created with Adobe Animate version 19.2.0.405 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="mimir firstdeath 10000" x="2" y="2" width="720" height="480"/>
+	<SubTexture name="mimir firstdeath 10001" x="2" y="2" width="720" height="480"/>
+	<SubTexture name="mimir firstdeath 10002" x="2" y="2" width="720" height="480"/>
+	<SubTexture name="mimir firstdeath 10003" x="2" y="2" width="720" height="480"/>
+	<SubTexture name="mimir firstdeath 10004" x="2" y="2" width="720" height="480"/>
+	<SubTexture name="mimir firstdeath 10005" x="2" y="2" width="720" height="480"/>
+	<SubTexture name="mimir firstdeath 10006" x="2" y="2" width="720" height="480"/>
+	<SubTexture name="mimir firstdeath 10007" x="2" y="2" width="720" height="480"/>
+	<SubTexture name="mimir firstdeath 10008" x="2" y="2" width="720" height="480"/>
+	<SubTexture name="mimir firstdeath 10009" x="2" y="2" width="720" height="480"/>
+	<SubTexture name="mimir firstdeath 10010" x="2" y="2" width="720" height="480"/>
+	<SubTexture name="mimir firstdeath 10011" x="2" y="2" width="720" height="480"/>
+	<SubTexture name="mimir firstdeath 10012" x="2" y="2" width="720" height="480"/>
+	<SubTexture name="mimir firstdeath 10013" x="2" y="2" width="720" height="480"/>
+	<SubTexture name="mimir firstdeath 10014" x="2" y="2" width="720" height="480"/>
+	<SubTexture name="mimir firstdeath 10015" x="2" y="2" width="720" height="480"/>
+	<SubTexture name="mimir firstdeath 10016" x="2" y="2" width="720" height="480"/>
+	<SubTexture name="mimir firstdeath 10017" x="2" y="2" width="720" height="480"/>
+	<SubTexture name="mimir firstdeath 10018" x="2" y="2" width="720" height="480"/>
+	<SubTexture name="mimir firstdeath 10019" x="2" y="2" width="720" height="480"/>
+	<SubTexture name="mimir firstdeath 10020" x="2" y="2" width="720" height="480"/>
+	<SubTexture name="mimir firstdeath 10021" x="2" y="2" width="720" height="480"/>
+	<SubTexture name="mimir firstdeath 10022" x="2" y="2" width="720" height="480"/>
+	<SubTexture name="mimir firstdeath 10023" x="2" y="2" width="720" height="480"/>
+	<SubTexture name="mimir firstdeath 10024" x="2" y="2" width="720" height="480"/>
+	<SubTexture name="mimir firstdeath 10025" x="2" y="2" width="720" height="480"/>
+	<SubTexture name="mimir firstdeath 10026" x="2" y="2" width="720" height="480"/>
+	<SubTexture name="mimir firstdeath 10027" x="2" y="2" width="720" height="480"/>
+	<SubTexture name="mimir firstdeath 10028" x="2" y="2" width="720" height="480"/>
+	<SubTexture name="mimir firstdeath 10029" x="2" y="2" width="720" height="480"/>
+	<SubTexture name="mimir firstdeath 10030" x="2" y="2" width="720" height="480"/>
+	<SubTexture name="mimir firstdeath 10031" x="2" y="2" width="720" height="480"/>
+	<SubTexture name="mimir firstdeath 10032" x="2" y="2" width="720" height="480"/>
+	<SubTexture name="mimir firstdeath 10033" x="2" y="2" width="720" height="480"/>
+	<SubTexture name="mimir firstdeath 10034" x="2" y="2" width="720" height="480"/>
+	<SubTexture name="mimir firstdeath 10035" x="2" y="2" width="720" height="480"/>
+	<SubTexture name="mimir firstdeath 10036" x="2" y="2" width="720" height="480"/>
+	<SubTexture name="mimir deathloop 10000" x="2" y="2" width="720" height="480"/>
+	<SubTexture name="mimir deathend 10000" x="2" y="2" width="720" height="480"/>
+</TextureAtlas>
